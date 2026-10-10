@@ -4,12 +4,11 @@
 
 The complete Git commit history is shown below.
 
-c1da342 (HEAD -> main, origin/main) Merge pull request #1 from itsmesaadali/development
-7428660 (origin/development, development) fix: resolved merge conflict
-65a53c0 (origin/staging, staging) fix: staging label
-6cf2100 feat: updated script with staging env
-d4042b7 feat: initial commit with deploy script
-
+- `c1da342` (HEAD -> main, origin/main) Merge pull request #1 from itsmesaadali/development
+- `7428660` (origin/development, development) fix: resolved merge conflict
+- `65a53c0` (origin/staging, staging) fix: staging label
+- `6cf2100` feat: updated script with staging env
+- `d4042b7` feat: initial commit with deploy script
 
 ## 2. Reflection Questions
 
