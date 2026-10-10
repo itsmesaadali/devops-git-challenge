@@ -1,5 +1,5 @@
 #!/bin/bash
-# Environment: developement
+# Environment: development (merged with staging)
 
 echo "Starting deployment..."
 echo "Deploying application to production environment"
